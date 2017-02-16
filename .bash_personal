@@ -1,10 +1,10 @@
-alias ls="ls -Gh"
+alias ls="ls -Gh --color"
 alias l="ls"
 alias ll="ls -alh"
  
 alias top="top -o cpu"
 
-alias vi="/Applications/MacVim.app/Contents/MacOS/Vim"
+#alias vi="/Applications/MacVim.app/Contents/MacOS/Vim"
 alias gvim="vi -g --remote-tab-silent"
 alias vim="gvim"
 
